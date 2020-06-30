@@ -3,6 +3,7 @@
         <active>true</active>
         <application display_value="NeedIt">0242fb8d0fa83200cd674f8ce1050e79</application>
         <assessment/>
+        <content_page/>
         <device_type/>
         <filter/>
         <hint>Create a new record in the NeedIt table</hint>
@@ -35,6 +36,10 @@
         <sys_updated_on>2017-01-25 01:01:22</sys_updated_on>
         <timeline_page/>
         <title>Create New</title>
+        <u_due_date/>
+        <u_number/>
+        <u_state/>
+        <u_time_work/>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>
