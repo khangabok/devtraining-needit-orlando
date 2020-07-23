@@ -24,6 +24,13 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2017-01-24 22:46:33</sys_updated_on>
         <title>NeedIt</title>
+        <u_choice_1/>
+        <u_number/>
+        <u_owner/>
+        <u_priority/>
+        <u_short_description/>
+        <u_state/>
+        <u_time_work/>
         <view_name/>
     </sys_app_application>
 </record_update>
